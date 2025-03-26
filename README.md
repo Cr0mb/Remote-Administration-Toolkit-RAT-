@@ -1,5 +1,7 @@
 # Remote Administration Toolkit (RAT)
 
+![image](https://github.com/user-attachments/assets/c245e493-6318-4d9f-bff3-16ca3379f059)
+
 ## Overview
 - This is a remote administration toolkit that consists of both a server and a client. 
 - The server acts as a control panel for managing multiple connected clients, while the client establishes a persistent connection to the server, allowing for remote command execution.
