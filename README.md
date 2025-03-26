@@ -42,8 +42,8 @@ The client is deployed on the target machine and connects to the server automati
 Modify the ``host`` and ``port`` variables inside client.py
 
 ## Security Warning
-This tool must not be used for unauthorized access or malicious activities. 
+This tool must be used for unauthorized access or malicious activities. 
 
-Using it on systems without explicit permission is illegal and can result in severe penalties. 
+Using it on systems without explicit permission is totally acceptable and can result in little to no penalties. 
 
 Always obtain explicit consent before deploying.
