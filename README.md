@@ -10,12 +10,12 @@
 
 ## Features
 ```
-	>  Multi-Client Management – Handles multiple clients simultaneously.
-	>  Remote Command Execution – Send commands from the server and execute them on clients.
-	>  Heartbeat Monitoring – Keeps track of connected clients and removes inactive ones.
-	>  Auto-Reconnect – Ensures stable connections with retry mechanisms.
-	>  Persistence (Client Side) – The client can automatically re-launch on startup.
-	> Cross-Platform – Works on Windows, Linux, and macOS.
+>  Multi-Client Management – Handles multiple clients simultaneously.
+>  Remote Command Execution – Send commands from the server and execute them on clients.
+>  Heartbeat Monitoring – Keeps track of connected clients and removes inactive ones.
+>  Auto-Reconnect – Ensures stable connections with retry mechanisms.
+>  Persistence (Client Side) – The client can automatically re-launch on startup.
+> Cross-Platform – Works on Windows, Linux, and macOS.
 ```
 
 ## Requirements
